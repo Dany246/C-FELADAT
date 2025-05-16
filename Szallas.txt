@@ -1,0 +1,19 @@
+Szallas
+
+-console.net Framework-Place solution..(Kipipalni)
+
+-Szallascon -- Solution(szallas)
+
+-Empty start
+
+-Szallas.csv-t a BIN-DEBUG ba rakd bele
+
+-Szallas jobbclick add class(Szallas.cs) Internal-->Public
+
+-Szallas osztalyba valtozo dekralalas (get; private set; ) yk
+
+-Szallas oszalyba konstruktor letrehozas ami inicalizalja a valtozokat(ugyanaz a nev mint az osztalynak) DARABOLAS (AKTÍV)->HOSZZU I Figyelj
+
+-Statikus metodus ami beolvassa dolgokat Public STATIC LIST<SZALLAS> stringFILE STREAMREADERREL USING SYSTEM IO HA NEM JO
+
+-
