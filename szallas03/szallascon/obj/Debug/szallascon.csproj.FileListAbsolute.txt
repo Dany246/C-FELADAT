@@ -1,0 +1,8 @@
+C:\Users\szf1\Desktop\C#feladat\szallas03\szallascon\bin\Debug\szallascon.exe.config
+C:\Users\szf1\Desktop\C#feladat\szallas03\szallascon\bin\Debug\szallascon.exe
+C:\Users\szf1\Desktop\C#feladat\szallas03\szallascon\bin\Debug\szallascon.pdb
+C:\Users\szf1\Desktop\C#feladat\szallas03\szallascon\obj\Debug\szallascon.csproj.AssemblyReference.cache
+C:\Users\szf1\Desktop\C#feladat\szallas03\szallascon\obj\Debug\szallascon.csproj.SuggestedBindingRedirects.cache
+C:\Users\szf1\Desktop\C#feladat\szallas03\szallascon\obj\Debug\szallascon.csproj.CoreCompileInputs.cache
+C:\Users\szf1\Desktop\C#feladat\szallas03\szallascon\obj\Debug\szallascon.exe
+C:\Users\szf1\Desktop\C#feladat\szallas03\szallascon\obj\Debug\szallascon.pdb
